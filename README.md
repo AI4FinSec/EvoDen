@@ -1,4 +1,4 @@
-# EvoDen Code Release
+# EvoDen
 
 This README documents the **static EvoDen pipeline** provided by the three entry scripts below. It performs sequence extraction, representation learning, and downstream classification on a fixed transaction graph.
 
