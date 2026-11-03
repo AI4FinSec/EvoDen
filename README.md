@@ -1,6 +1,6 @@
 # EvoDen
 
-This README documents the **static EvoDen pipeline** provided by the three entry scripts below. It performs sequence extraction, representation learning, and downstream classification on a fixed transaction graph.
+We release three entry scripts for the core innovative modules of EvoDen. It performs sequence extraction, representation learning, and downstream classification on a fixed transaction graph.
 
 The code is organized into three stages:
 
